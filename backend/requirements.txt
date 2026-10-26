@@ -12,3 +12,11 @@ python-dotenv
 python-multipart
 google-genai
 pydantic
+
+streamlit
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+google-genai
+pydantic
